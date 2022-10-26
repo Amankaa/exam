@@ -1,0 +1,121 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+header {
+    width: 1512px;
+    height: 44px;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+.container-nav {
+    width: 950px;
+    margin: 13px auto;
+}
+.header-items {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 13px ;
+}
+.header-item {
+    color: white;
+    text-decoration: none;
+}
+.header-post {
+    text-align: center;
+    margin-top: 51px;
+}
+.header-post h1{
+   color:rgba(29, 29, 31, 1);
+   font-style: normal;
+   font-weight: 700;
+   font-size: 56px;
+   line-height: 60px;
+   margin: 0;
+   letter-spacing: 0.28px;
+}
+.header-post p {
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 31px;
+    color: rgba(29, 29, 31, 1);
+    letter-spacing: 0.112px;
+    margin: 1px;
+}
+.learn-buy {
+    margin-left:646px;
+    display: flex;
+    gap: 40px;
+}
+.learn-buy a{
+    color: rgba(0, 102, 204, 1);
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 29px;
+    letter-spacing: 0.231px;
+}
+.header-post img{
+    padding-top: 12px;
+    padding-bottom: 12px
+}
+.container-second {
+    position: relative;
+    background-color: black;
+    text-align: center;
+    padding-top: 51px;
+    width: 1512px;
+    height: 693px;
+    
+}
+.second-cover img{
+    position: relative
+
+}
+.gg {
+    position: absolute;
+    margin-top: -696px;
+    text-align: center;
+    margin-left: 631px;
+}
+.gg h1 {
+    color: white;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 60px;
+    margin: 0;
+    letter-spacing: 0.28px;
+
+}
+.gg p {
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 31px;
+    color:white;
+    letter-spacing: 0.112px;
+    margin: 1px;
+}
+.scnd-learn-buy {
+    display: flex;
+    justify-content: space-around;
+}
+.scnd-learn-buy  a{
+    color: rgba(0, 102, 204, 1);
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 29px;
+    letter-spacing: 0.231px;
+}
+.container-3rd {
+    text-align: center;
+    padding-top: 76px;
+    width: 1512px;
+    height: 693px;
+}
+.container-3rd p{
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 31px;
+    color: rgba(29, 29, 31, 1);
+    letter-spacing: 0.112px;
+    margin: 1px 13px 1px 1px;
+}
+
